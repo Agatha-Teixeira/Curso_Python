@@ -7,7 +7,7 @@ n4 = int(input('Digite a 4° nota: '))
 med = (n1 + n2 + n3 + n4)/4
 
 if med >= 6:
-    print ('Aluno Aprovado')
+    print ('O aluno foi Aprovado')
 
 else:
     print ('Aluno Reprovado')
