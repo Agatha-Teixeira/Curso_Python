@@ -10,4 +10,4 @@ if med >= 6:
     print ('O aluno foi Aprovado')
 
 else:
-    print ('Aluno Reprovado')
+    print ('O aluno foi Reprovado')
